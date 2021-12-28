@@ -1,4 +1,4 @@
-# Test assignment for php developer to Advertising team
+# Test assignment for PHP developer (Advertising team)
 ## Task
 It is necessary to create a service for storing and submitting adverts. Adverts must be stored in a database. The service should provide an API that runs in JSON format.
 
