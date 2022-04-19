@@ -16,10 +16,10 @@ If you have doubts about the details - make the decision yourself, but in your R
 #### Method for getting list of ads 
 * Pagination: 10 ads should be present on one page;
 * Sorting: by price (ascending / descending) and by date of creation (ascending / descending);
-* Fields in the response: ad name, link to the main picture (the first in the list if there are several pictures), price.
+* Fields in the response: ad title, link to the main picture (the first in the list if there are several pictures), price.
 
 #### Method of getting a specific ad 
-* Required fields in the response: ad name, price, link to the main picture;
+* Required fields in the response: ad title, price, link to the main picture;
 * Optional fields (can be requested by passing the 'fields' parameter): description, links to all pictures.
 
 #### Ad creation method
