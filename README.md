@@ -7,7 +7,7 @@ It is necessary to create a service for storing and submitting adverts. Adverts 
 * The final version should be posted on github.com
 * Simple instruction to start (ideally - with the ability to run through `docker-compose up`, but this is optional);
 * Implement 3 methods: getting a list of ads, getting one ad, creating an ad;
-* Validation of fields: no more than 3 links to a photo, description no more than 1000 characters, title no more than 200 characters;
+* Validation of fields: each advert has no more than 3 pictures (links to pictures), description no more than 1000 characters, title no more than 200 characters;
 * No need to implement HTML and JS parts. PHP only;
 
 If you have doubts about the details - make the decision yourself, but in your README.md we recommend writing down the questions, and the decisions made on them.
