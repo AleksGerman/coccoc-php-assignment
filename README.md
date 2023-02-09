@@ -9,6 +9,7 @@ It is necessary to create a service for storing and submitting adverts. Adverts 
 * Implement 3 methods: getting a list of ads, getting one ad, creating an ad;
 * Validation of fields: each advert has no more than 3 pictures (links to pictures), description no more than 1000 characters, title no more than 200 characters;
 * HTML and JS parts implementation are optional;
+* Unit tests: try to achieve coverage of 70% or more;
 
 If you have doubts about the details - make the decision yourself, but in your README.md we recommend writing down the questions, and the decisions made on them.
 
@@ -28,7 +29,6 @@ If you have doubts about the details - make the decision yourself, but in your R
 
 ## Complications
 Not required, but the task can be completed with any number of complications:
-* Unit tests: try to achieve coverage of 70% or more;
 * Containerization: it is possible to raise the project using the command `docker-compose up`;
 * The architecture of the service is described in the form of text and / or diagrams
 * Documentation: there is a structured description of the service methods.
